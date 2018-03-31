@@ -1,0 +1,10 @@
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\bin\Debug\SIHProducerWindowsService.exe.config
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\bin\Debug\SIHProducerWindowsService.exe
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\bin\Debug\SIHProducerWindowsService.pdb
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\obj\Debug\SIHProducerWindowsService.csproj.GenerateResource.Cache
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\obj\Debug\SIHProducerWindowsService.exe
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\obj\Debug\SIHProducerWindowsService.pdb
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\obj\Debug\SIHProducerWindowsService.ProjectInstaller.resources
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\obj\Debug\SIHProducerWindowsService.SIFMDBProducer.resources
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\bin\Debug\kafka-net.dll
+c:\users\gwthm\documents\visual studio 2015\Projects\SIHProducerWindowsService\SIHProducerWindowsService\obj\Debug\SIHProducerWindowsService.csprojResolveAssemblyReference.cache
