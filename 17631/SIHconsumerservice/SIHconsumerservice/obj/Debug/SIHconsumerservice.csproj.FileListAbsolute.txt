@@ -1,0 +1,12 @@
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\obj\Debug\SIHconsumerservice.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\obj\Debug\SIHconsumerservice.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\obj\Debug\SIHconsumerservice.SIHconsumerservice.resources
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\obj\Debug\SIHconsumerservice.csproj.GenerateResource.cache
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\obj\Debug\SIHconsumerservice.ProjectInstaller.resources
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\bin\Debug\SIHconsumerservice.exe.config
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\bin\Debug\SIHconsumerservice.exe
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\bin\Debug\SIHconsumerservice.pdb
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\obj\Debug\SIHconsumerservice.exe
+c:\users\lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\obj\Debug\SIHconsumerservice.pdb
+C:\Users\Lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\bin\Debug\kafka-net.dll
+C:\Users\Lenovo\source\repos\SIHconsumerservice\SIHconsumerservice\obj\Debug\SIHconsumerservice.csproj.CopyComplete
